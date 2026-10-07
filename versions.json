@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "versions": [
+    {
+      "versionLabel": "2026.9.5",
+      "manifestId": 990035194164819049,
+      "publishedAt": "2026-09-05T00:27:21+00:00",
+      "tags": [ "最新", "推荐" ],
+      "unavailable": false
+    },
+    {
+      "versionLabel": "2026.8.13",
+      "manifestId": 1397756378225229500,
+      "publishedAt": "2026-08-18T17:00:18+00:00",
+      "tags": [],
+      "unavailable": false
+    }
+  ]
+}
